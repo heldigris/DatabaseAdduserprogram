@@ -1,0 +1,11 @@
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\bin\Debug\DatabaseTest1.exe.config
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\bin\Debug\DatabaseTest1.mdf
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\bin\Debug\DatabaseTest1_log.ldf
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\bin\Debug\DatabaseTest1.exe
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\bin\Debug\DatabaseTest1.pdb
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\obj\Debug\DatabaseTest1.csprojResolveAssemblyReference.cache
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\obj\Debug\DatabaseTest1.FormMain.resources
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\obj\Debug\DatabaseTest1.Properties.Resources.resources
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\obj\Debug\DatabaseTest1.csproj.GenerateResource.Cache
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\obj\Debug\DatabaseTest1.exe
+c:\users\hans\documents\visual studio 2015\Projects\DatabaseTest1\obj\Debug\DatabaseTest1.pdb
